@@ -1,3 +1,3 @@
 # CSS-Battle-Tasks
 
-https://sorcazm.github.io/Curded-Is-Dead/
+https://sorcazm.github.io/CSS-Battle-Tasks/
